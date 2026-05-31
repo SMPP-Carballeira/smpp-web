@@ -1,0 +1,28 @@
+.header {
+    background: #1e3a8a;
+    color: white;
+    padding: 15px;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+.header nav a {
+    margin-right: 15px;
+    color: white;
+    font-weight: bold;
+}
+
+.container {
+    padding: 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.footer {
+    background: #111;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
